@@ -3,9 +3,8 @@ export function createHeader() {
     <header>
       <div class="container">
         <div class="header-content">
-          <a href="#" class="logo"> </a>
+          <a href="#" class="logo"> <img src="image/0.jpg" alt="abel"width="200" height="150"></a>
           <nav>
-
             <ul class="nav-links">
               <li><a href="#home">Home</a></li>
               <li><a href="#services">Services</a></li>
